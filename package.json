@@ -1,0 +1,35 @@
+{
+  "name": "react-native-get-gallery-image",
+  "version": "1.0.0",
+  "description": "Get an image and move it to a given directory",
+  "main": "RNGetGalleryImage.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:radweb/react-native-get-gallery-image.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "fs",
+    "filesystem",
+    "uri",
+    "path",
+    "cameraRoll",
+    "image",
+    "gallery"
+  ],
+  "author": "Robb Lewis <robb@radweb.co.uk> (https://github.com/radweb)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "react-native-fs": "^2.1.0-rc.1"
+  },
+  "devDependencies": {
+    "react-native": "*"
+  }
+}
