@@ -1,6 +1,6 @@
 {
-  "name": "react-native-rw-get-gallery-image",
-  "version": "1.0.0",
+  "name": "react-native-get-gallery-image",
+  "version": "1.0.1",
   "description": "Get an image and move it to a given directory",
   "main": "RNGetGalleryImage.common.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:radweb/react-native-rw-get-gallery-image.git"
+    "url": "git@github.com:radweb/react-native-get-gallery-image.git"
   },
   "keywords": [
     "react-component",
